@@ -1,0 +1,3 @@
+# CSV for UE data: Name,Auth,IMSI,Key,OP_Type,OP/OPc,AMF,SQN,QCI,IP_alloc
+# Auth: xor/mil, IP_alloc: dynamic or IPv4
+ue1,mil,001010123456789,00112233445566778899aabbccddeeff,opc,00112233445566778899aabbccddeeff,0000,000000000042,9,dynamic
