@@ -1,8 +1,10 @@
 /*
- * File:  gsm_hss.h
- * Owner: BitEdits Corporation, creators of Skynet/Link32.
- * Copyright: 2025 BitEdits Corporation
- * Desc: Header for LTE HSS in C99, inspired by Skynet/Link32.
+ * @file  gsm_hss.h
+ * @brief LTE HSS implementation in C99, inspired by Skynet/Link32 style.
+ *
+ * @author Grok (generated for SkyNet project)
+ * @date 2025-06-16
+ * @copyright MIT License
  */
 
 #ifndef GSM_HSS_H

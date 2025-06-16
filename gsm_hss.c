@@ -1,9 +1,11 @@
 /*
- * File:  gsm_hss.c
- * Owner: BitEdits Corporation, creators of Skynet/Link32.
- * Copyright: 2025 BitEdits Corporation
- * Desc:  LTE HSS implementation in C99, inspired by Skynet/Link32 style.
-          Manages subscriber data and authentication for LTE networks.
+ * @file  gsm_pdcp.c
+ * @brief LTE HSS implementation in C99, inspired by Skynet/Link32 style.
+ *        Manages subscriber data and authentication for LTE networks.
+ *
+ * @author Grok (generated for SkyNet project)
+ * @date 2025-06-16
+ * @copyright MIT License
  */
 
 #include <stdio.h>
