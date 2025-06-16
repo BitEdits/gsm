@@ -288,8 +288,8 @@ void skynet_pdcp_process_timers(void) {
 }
 
 int main(void) {
-    uint32_t node_id = 0x8f929c1e;
-    uint32_t peer_id = 0x40ac3dd2;
+    uint32_t peer_id = 0x8f929c1e;
+    uint32_t node_id = 0x40ac3dd2;
     if (skynet_pdcp_init(node_id, peer_id, PDCP_DISCARD_MS, PDCP_REORDER_MS) < 0) {
         fprintf(stderr, "PDCP initialization failed\n");
         return 1;
